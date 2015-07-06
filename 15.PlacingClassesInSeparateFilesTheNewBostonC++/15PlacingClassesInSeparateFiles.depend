@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1431819893 source:c:\users\adam t\desktop\thenewbostonprograms\buckybostonprograms\15.placingclassesinseparatefiles\burrito.cpp
+	"Burrito.h"
+	<iostream>
+
+1431819885 c:\users\adam t\desktop\thenewbostonprograms\buckybostonprograms\15.placingclassesinseparatefiles\burrito.h
+
+1431819768 source:c:\users\adam t\desktop\thenewbostonprograms\buckybostonprograms\15.placingclassesinseparatefiles\main.cpp
+	<iostream>
+	"Burrito.h"
+

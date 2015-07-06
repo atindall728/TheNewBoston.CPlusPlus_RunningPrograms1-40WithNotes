@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1422915288 source:c:\users\adam t\desktop\buckybostonprograms\randomnumbergenorator27\main.cpp
+	<iostream>
+	<cstdlib>
+
